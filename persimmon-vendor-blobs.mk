@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
 	vendor/archos/persimmon/proprietary/lib/libcam.iopipe_FrmB.so:system/lib/libcam.iopipe_FrmB.so \
 	vendor/archos/persimmon/proprietary/lib/libcamdrv_FrmB.so:system/lib/libcamdrv_FrmB.so \
 	vendor/archos/persimmon/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
-	vendor/archos/persimmon/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
 	vendor/archos/persimmon/proprietary/lib/libimageio_FrmB.so:system/lib/libimageio_FrmB.so \
 	vendor/archos/persimmon/proprietary/lib/libimageio_plat_drv_FrmB.so:system/lib/libimageio_plat_drv_FrmB.so \
     vendor/archos/persimmon/proprietary/lib/libbtcust.so:system/lib/libbtcust.so \
