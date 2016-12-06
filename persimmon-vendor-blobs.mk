@@ -64,7 +64,6 @@ PRODUCT_COPY_FILES += \
     vendor/archos/persimmon/proprietary/lib/libcam3_app.so:system/lib/libcam3_app.so \
     vendor/archos/persimmon/proprietary/lib/libcam3_pipeline.so:system/lib/libcam3_pipeline.so \
     vendor/archos/persimmon/proprietary/lib/libcam3_utils.so:system/lib/libcam3_utils.so \
-    vendor/archos/persimmon/proprietary/lib/libcam.common.meizu.so:system/lib/libcam.common.meizu.so \
     vendor/archos/persimmon/proprietary/lib/libcam.exif.v3.so:system/lib/libcam.exif.v3.so \
     vendor/archos/persimmon/proprietary/lib/libcam.utils.cpuctrl.so:system/lib/libcam.utils.cpuctrl.so \
     vendor/archos/persimmon/proprietary/lib/libmpo.so:system/lib/libmpo.so \
