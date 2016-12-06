@@ -43,7 +43,6 @@ PRODUCT_COPY_FILES += \
     vendor/archos/persimmon/proprietary/vendor/lib/hw/audio.a2dp.blueangel.so:system/vendor/lib/hw/audio.a2dp.blueangel.so \
     vendor/archos/persimmon/proprietary/lib/libcamera_client_mtk.so:system/lib/libcamera_client_mtk.so \
     vendor/archos/persimmon/proprietary/lib/hw/camera.mt6735.so:system/lib/hw/camera.mt6735.so \
-    vendor/archos/persimmon/proprietary/lib/hw/mmsdk.default.so:system/lib/hw/mmsdk.default.so \
     vendor/archos/persimmon/proprietary/lib/libcam.camadapter.so:system/lib/libcam.camadapter.so \
     vendor/archos/persimmon/proprietary/lib/libcam.camnode.so:system/lib/libcam.camnode.so \
     vendor/archos/persimmon/proprietary/lib/libcam.camshot.so:system/lib/libcam.camshot.so \
@@ -246,9 +245,7 @@ PRODUCT_COPY_FILES += \
     vendor/archos/persimmon/proprietary/lib/libui_ext.so:system/lib/libui_ext.so \
     vendor/archos/persimmon/proprietary/etc/perfservscntbl.txt:system/etc/perfservscntbl.txt \
     vendor/archos/persimmon/proprietary/usr/keylayout/ACCDET.kl:system/usr/keylayout/ACCDET.kl \
-    vendor/archos/persimmon/proprietary/usr/keylayout/AW9201_ts.kl:system/usr/keylayout/AW9201_ts.kl \
     vendor/archos/persimmon/proprietary/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl \
-    vendor/archos/persimmon/proprietary/usr/keylayout/mtk-tpd.kl:system/usr/keylayout/mtk-tpd.kl \
     vendor/archos/persimmon/proprietary/lib/libhwm.so:system/lib/libhwm.so \
     vendor/archos/persimmon/proprietary/lib/libfile_op.so:system/lib/libfile_op.so \
     vendor/archos/persimmon/proprietary/lib/libnvramagentclient.so:system/lib/libnvramagentclient.so \
